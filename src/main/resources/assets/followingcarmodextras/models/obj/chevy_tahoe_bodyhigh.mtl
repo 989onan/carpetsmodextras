@@ -1,11 +1,11 @@
-# Blender MTL File: 'LamborghiniGallardo.blend'
+# Blender MTL File: 'ChevyTahoe.blend'
 # Material Count: 1
 
-newmtl pallet
-Ns 225.000000
+newmtl Pallet
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
+Ks 0.114286 0.114286 0.114286
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
