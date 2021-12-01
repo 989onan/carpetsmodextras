@@ -3,6 +3,8 @@
   "loader": "forge:obj",
   "flip-v": true,
   "model": "followingcarmodextras:models/obj/mazda_rx7_fd_colorhigh.obj",
+  "ambientToFullbright":false,
+  "diffuseLighting":true,
   "textures": {
     "texture0": "minecraft:block/cobblestone" 
   }

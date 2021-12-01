@@ -3,6 +3,8 @@
   "loader": "forge:obj",
   "flip-v": true,
   "model": "followingcarmodextras:models/obj/ford_f150_color.obj",
+  "ambientToFullbright":false,
+  "diffuseLighting":true,
   "textures": {
     "texture0": "minecraft:block/cobblestone" 
   }
