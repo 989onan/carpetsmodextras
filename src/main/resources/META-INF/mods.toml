@@ -1,6 +1,6 @@
 modLoader="javafml" #mandatory
 # A version range to match for said mod loader - for regular FML @Mod it will be the forge version
-loaderVersion="[38,)" 
+loaderVersion="[41,)"
 license="All rights reserved"
 
 issueTrackerURL="https://github.com/989onan/carpetsmodextras/issues" #optional
@@ -46,7 +46,7 @@ This enables 3D .OBJ models for all car models for the Car Pets Mod. The Car Pet
     # Does this dependency have to exist - if not, ordering below must be specified
     mandatory=true #mandatory
     # The version range of the dependency
-    versionRange="[38,)" #mandatory
+    versionRange="[41,)" #mandatory
     # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
     ordering="NONE"
     # Side this dependency is applied on - BOTH, CLIENT or SERVER
@@ -56,6 +56,6 @@ This enables 3D .OBJ models for all car models for the Car Pets Mod. The Car Pet
     modId="minecraft"
     mandatory=true
 # This version range declares a minimum of the current minecraft version up to but not including the next major version
-    versionRange="[1.18,1.19)"
+    versionRange="[1.19,1.20)"
     ordering="NONE"
     side="CLIENT"
